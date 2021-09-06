@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>hexo+github+matery+cloudflare搭建记录</title>
+      <link href="/2021/09/07/uptodate/"/>
+      <url>/2021/09/07/uptodate/</url>
+      
+        <content type="html"><![CDATA[<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><ul><li>背景信息</li><li>背景音乐</li><li>支持我的付款码</li><li>一些动画的源代码更改</li><li>开通valine评论区</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网站搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Happy Birthday</title>
       <link href="/2021/09/04/Happy-Birthday/"/>
       <url>/2021/09/04/Happy-Birthday/</url>
